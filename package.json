@@ -1,0 +1,30 @@
+{
+  "name": "bs4starter",
+  "version": "1.0.0",
+  "description": "Bootstrap 4 Beta workflow",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/toddcf/bs4starter.git"
+  },
+  "author": "Todd Croak-Falen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/toddcf/bs4starter/issues"
+  },
+  "homepage": "https://github.com/toddcf/bs4starter#readme",
+  "dependencies": {
+    "bootstrap": "4.0.0-beta",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.2.1",
+    "popper.js": "^1.12.5"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.18.13",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0"
+  }
+}
